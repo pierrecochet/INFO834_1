@@ -67,7 +67,7 @@ Si tout fonctionne bien vous devriez arriver sur cette page
 ![](https://www.zupimages.net/up/20/17/5et5.jpg)
 
 Vous pourrez ensuite rentrer un nom et rejoindre le chat.
-Sur le côté se trouve des salons que vous pouvez rejoindre pour discuter avec les utilisateur présents sur ces derniers.
+Sur le côté se trouve des salons que vous pouvez rejoindre en cliquant dessus pour discuter avec les utilisateur présents sur ces derniers.
 
 ![](https://www.zupimages.net/up/20/17/4nv1.jpg)
 
