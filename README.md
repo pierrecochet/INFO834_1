@@ -64,12 +64,12 @@ Puis lancer le serveur Redis
 
 Une fois l'installation terminé pour lancer l'application executer le fichier /socket.io-chat/server.js
 Si tout fonctionne bien vous devriez arriver sur cette page 
-![](https://zupimages.net/viewer.php?id=20/17/5et5.jpg)
+![](https://www.zupimages.net/up/20/17/5et5.jpg)
 
 Vous pourrez ensuite rentrer un nom et rejoindre le chat.
 Sur le côté se trouve des salons que vous pouvez rejoindre pour discuter avec les utilisateur présents sur ces derniers.
 
-![](https://zupimages.net/viewer.php?id=20/17/4nv1.jpg)
+![](https://www.zupimages.net/up/20/17/4nv1.jpg)
 
 ## Get clients avec Redis 
 
