@@ -8,7 +8,7 @@ Le mini projet est basé sur ce projet initialement : https://blog.bini.io/devel
 
 ## Installation
 
-###Les packages
+### Les packages
 L'installation se fait dans deux repertoires.
 Aller à la racine et executer :
 ```sh
@@ -22,7 +22,7 @@ npm intall
 ```
 _Si des packets venait à manquer veuillez executer npm install *le nom du packet*_
 
-###Replica Set
+### Replica Set
 En suite il faut initialiser le replica set
 Il faut commencer par créer les répertoires prévus pour accueillir les rs:
 Aller dans votre repertoire "data" et executer :
@@ -54,7 +54,7 @@ Enfin définir l'arbitre avec la commande suivante :
 rs.addArb("localhost:30000")
 ```
 
-###Redis
+### Redis
 Pour le serveur Redis il va vous falloir intsaller une verion de la 3.0 minimum pour des raisons de compatibiltées.
 Que vous pourrez trouver à ce lien : https://github.com/MicrosoftArchive/redis/releases
 Puis lancer le serveur Redis
